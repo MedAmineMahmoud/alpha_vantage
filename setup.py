@@ -50,4 +50,3 @@ setup(
         'alpha_vantage': [],
     }
 )
-
